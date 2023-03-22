@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "785142456691",
+    "project_id": "simplelogin-app",
+    "storage_bucket": "simplelogin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785142456691:android:2754be1f219a76337de506",
+        "android_client_info": {
+          "package_name": "com.example.simple_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785142456691-o2mglvn6o107ocj2g4jp23p72s0jt2q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6vmhWHlRQBuBtJbxJu4iD7qCtRupWrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785142456691-o2mglvn6o107ocj2g4jp23p72s0jt2q3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785142456691-uo0udb77c6olfalqifk3nbm29f24q7r2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simpleLoginApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785142456691:android:3f2d84ab5f4970ef7de506",
+        "android_client_info": {
+          "package_name": "com.example.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785142456691-o2mglvn6o107ocj2g4jp23p72s0jt2q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6vmhWHlRQBuBtJbxJu4iD7qCtRupWrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785142456691-o2mglvn6o107ocj2g4jp23p72s0jt2q3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785142456691-uo0udb77c6olfalqifk3nbm29f24q7r2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simpleLoginApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

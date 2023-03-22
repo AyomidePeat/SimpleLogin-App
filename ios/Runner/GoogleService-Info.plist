@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>785142456691-uo0udb77c6olfalqifk3nbm29f24q7r2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.785142456691-uo0udb77c6olfalqifk3nbm29f24q7r2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHaZ-UBS81DM9q7X7GzT26-3gBIRXAuOE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>785142456691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.simpleLoginApp</string>
+	<key>PROJECT_ID</key>
+	<string>simplelogin-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simplelogin-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:785142456691:ios:1094e44ed632f1d47de506</string>
+</dict>
+</plist>
